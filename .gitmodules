@@ -40,3 +40,6 @@
 [submodule "tags"]
 	path = tags
 	url = https://github.com/andyque/Cocos2DTags.git
+[submodule "bundle/TagHighlight"]
+	path = bundle/TagHighlight
+	url = https://github.com/magic-dot-files/TagHighlight.git
