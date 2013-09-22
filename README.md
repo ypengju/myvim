@@ -2,7 +2,6 @@
 	~$ git clone git@github.com:ypengju/myvim.git  
 	~$ mv mygit .vim  
 	~$ cd .vim  
-	~$ cd .vim
  .vim$ ./install.sh
 
 1)pathogen	
