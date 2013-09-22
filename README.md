@@ -1,4 +1,4 @@
-安装：
+安装：  
 	~$ git clone git@github.com:ypengju/myvim.git  
 	~$ mv mygit .vim  
 	~$ cd .vim  
