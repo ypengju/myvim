@@ -1,8 +1,16 @@
+<<<<<<< HEAD:README.txt
 安装：
 	~$ git clone git@github.com:ypengju/myvim.git  
 	~$ mv mygit .vim  
 	~$ cd .vim  
  .vim$ ./install.sh  
+=======
+安装:
+	~$ git clone git@github.com:ypengju/myvim.git
+	~$ mv myvim .vim
+	~$ cd .vim
+ .vim$ ./install.sh
+>>>>>>> 26499aa5f9e54474b974d1eb7b34bcc89450df97:README.md
 
 1)pathogen	
 管理插件的插件，有了它直接将其他插件clone下来放在bundle中就OK了,不用将每个插件的各个部分分别拷贝进相应目录了，它会帮忙自动管理这些插件，使得添加和删除插件都很方便。
