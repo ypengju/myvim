@@ -1,4 +1,3 @@
-
 "common{{"
 "set t_Co=256
 set encoding=utf-8
@@ -17,6 +16,10 @@ set cindent
 set laststatus=2
 set statusline=%F:\ %l
 "}}
+
+"设置字体
+"or Source Code Pro
+set guifont=Consolas:h14
 
 "快速打开.vimrc文件{{
 noremap ,v :e ~/.vimrc<CR>
