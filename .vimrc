@@ -1,8 +1,16 @@
 "common{{"
 "set t_Co=256
 set encoding=utf-8
+set fileencodings=utf-8,chinese,latin-1
+if has("win32")
+set fileencoding=chinese
+"解决consle乱码
+language messages zh_CN.utf-8
+else
 set fileencoding=utf-8
-set termencoding=utf-8
+endif
+
+
 set nu
 "代码缩进"
 set tabstop=4 
